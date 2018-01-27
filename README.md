@@ -1,6 +1,8 @@
 # The-Pig-Game
 A Small JavaScript game that I've made on my JavaScript learning path.
 
+You can try this game here: https://mindaras.github.io/the_pig_game/ , but please read the game rules before you do.
+
 GAME RULES:
 
 - The game has 2 players, playing in rounds
