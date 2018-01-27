@@ -3,7 +3,7 @@ A Small JavaScript game that I've made on my JavaScript learning path.
 
 You can try this game here: https://mindaras.github.io/the_pig_game/ , but please read the game rules before you do.
 
-* Please note that the game is made for desktop screen only.
+*Please note that the game is made for desktop screen only.
 
 GAME RULES:
 
