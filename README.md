@@ -13,3 +13,10 @@ GAME RULES:
 - The first player to reach 100 (or the chosen score) points on GLOBAL score wins the game
 
 *Please note that the game is made for desktop screen only.
+
+![Alt text](1.png?raw=true)
+![Alt text](2.png?raw=true)
+![Alt text](3.png?raw=true)
+![Alt text](4.png?raw=true)
+![Alt text](5.png?raw=true)
+![Alt text](6.png?raw=true)
